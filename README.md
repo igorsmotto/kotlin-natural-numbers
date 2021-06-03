@@ -1,8 +1,8 @@
 
 # Kotlin Natural Numbers
 
-Kotlin Natural numbers
  A playground for implementing the natural numbers in number theory
+ 
  A natural number can be defined as a recursive structure as either zero or a successor of zero
 
  ```i.e.: 5 = Succ(Succ(Succ(Succ(Succ(Zero)))))```
